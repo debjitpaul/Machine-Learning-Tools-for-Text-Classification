@@ -1,7 +1,7 @@
 
 __author__ = 'Debjit Paul'
 """
-This class uses Logistic Regression 
+This class uses MLP Classifier
 """
 #!/usr/bin/env python3
 # Import data and modules
